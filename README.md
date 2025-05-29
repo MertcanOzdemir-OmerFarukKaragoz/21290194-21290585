@@ -14,4 +14,7 @@ https://youtu.be/xM3QI4Mqlm4
 veritabanı performans optimizasyonu ve izleme
 https://youtu.be/rLBt1m3E_UY
 
+Veritabanı Yük dengeleme ve dağıtık veritabanı yapıları
+https://youtu.be/znoigYaJsPA
+
 
