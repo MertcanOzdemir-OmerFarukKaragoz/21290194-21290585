@@ -17,4 +17,7 @@ https://youtu.be/rLBt1m3E_UY
 Veritabanı Yük dengeleme ve dağıtık veritabanı yapıları
 https://youtu.be/znoigYaJsPA
 
+Veri temizleme ve ETL süreçleri tasarımı
+https://youtu.be/jt45tOfMzmI
+
 
