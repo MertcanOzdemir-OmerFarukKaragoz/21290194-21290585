@@ -20,4 +20,5 @@ https://youtu.be/znoigYaJsPA
 Veri temizleme ve ETL süreçleri tasarımı
 https://youtu.be/jt45tOfMzmI
 
-
+Veri tabanı yükseltme ve sürüm yönetimi
+https://www.youtube.com/watch?v=XU_M83iCip0
